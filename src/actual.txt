@@ -1,0 +1,5954 @@
+ARM Simulator
+
+Read 14 words from program into memory.
+
+ARM-SIM> 
+Simulating for 1087 cycles...
+
+-----Cycle: 1-----
+WB PC 0
+MEM PC 0
+EX opcode: 0
+FETCH PC: 400000
+icache missed
+-----Cycle: 2-----
+WB PC 0
+MEM PC 0
+EX opcode: 0
+FETCH PC: 400000
+-----Cycle: 3-----
+WB PC 0
+MEM PC 0
+EX opcode: 0
+FETCH PC: 400000
+-----Cycle: 4-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 5-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 6-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 7-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 8-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 9-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 10-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 11-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 12-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 13-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 14-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 15-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 16-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 17-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 18-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 19-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 20-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 21-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 22-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 23-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 24-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 25-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 26-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 27-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 28-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 29-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 30-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 31-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 32-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 33-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 34-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 35-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 36-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 37-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 38-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 39-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 40-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 41-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 42-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 43-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 44-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 45-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 46-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 47-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 48-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 49-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+-----Cycle: 50-----
+WB PC 0
+MEM PC 0
+FETCH PC: 400000
+icache stall completed
+-----Cycle: 51-----
+WB PC 0
+MEM PC 0
+EX opcode: 0
+FETCH PC: 400000
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 52-----
+WB PC 0
+MEM PC 0
+EX opcode: 0
+FETCH PC: 400004
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 53-----
+WB PC 0
+MEM PC 0
+EX opcode: 694
+FETCH PC: 400008
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 54-----
+WB PC 0
+MEM PC 400000
+MEM Opcode: 694
+EX opcode: 694
+FETCH PC: 40000c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 55-----
+WB opcode: 694WB PC 400000
+MEM PC 400004
+MEM Opcode: 694
+EX opcode: 694
+FETCH PC: 400010
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 56-----
+WB opcode: 694WB PC 400004
+MEM PC 400008
+MEM Opcode: 694
+EX opcode: 694
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 57-----
+WB opcode: 694WB PC 400008
+MEM PC 40000c
+MEM Opcode: 694
+EX opcode: 69b
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 58-----
+WB opcode: 694WB PC 40000c
+MEM PC 400010
+MEM Opcode: 69b
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 59-----
+WB opcode: 69bWB PC 400010
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache missed
+-----Cycle: 60-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400020
+-----Cycle: 61-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache miss
+FETCH PC: 400020
+-----Cycle: 62-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 63-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 64-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 65-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 66-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 67-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 68-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 69-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 70-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 71-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 72-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 73-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 74-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 75-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 76-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 77-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 78-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 79-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 80-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 81-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 82-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 83-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 84-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 85-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 86-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 87-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 88-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 89-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 90-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 91-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 92-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 93-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 94-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 95-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 96-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 97-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 98-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 99-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 100-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 101-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 102-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 103-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 104-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 105-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 106-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 107-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 108-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+icache stall completed
+-----Cycle: 109-----
+WB PC 0
+MEM PC 40001c
+FETCH PC: 400020
+-----Cycle: 110-----
+WB PC 0
+MEM PC 40001c
+dcache stall completed
+FETCH PC: 400020
+-----Cycle: 111-----
+WB PC 0
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 112-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 113-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 114-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 40002c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 115-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400014
+-----Cycle: 116-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 0
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 117-----
+WB opcode: 54WB PC 400028
+MEM PC 400028
+EX opcode: 0
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 118-----
+WB opcode: 54WB PC 400028
+MEM PC 40002c
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 119-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 120-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 121-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 122-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache miss
+FETCH PC: 40002c
+icache hit
+yess
+-----Cycle: 123-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 124-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 125-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 126-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 127-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 128-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 129-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 130-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 131-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 132-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 133-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 134-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 135-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 136-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 137-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 138-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 139-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 140-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 141-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 142-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 143-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 144-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 145-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 146-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 147-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 148-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 149-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 150-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 151-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 152-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 153-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 154-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 155-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 156-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 157-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 158-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 159-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 160-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 161-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 162-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 163-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 164-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 165-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 166-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 167-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 168-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 169-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 170-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 171-----
+WB PC 0
+MEM PC 400020
+dcache stall completed
+FETCH PC: 400030
+-----Cycle: 172-----
+WB PC 0
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400030
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 173-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400014
+-----Cycle: 174-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 0
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 175-----
+WB opcode: 54WB PC 400028
+MEM PC 400028
+EX opcode: 0
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 176-----
+WB opcode: 54WB PC 400028
+MEM PC 400030
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 177-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 178-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 179-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 180-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 40002c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 181-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400014
+-----Cycle: 182-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 0
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 183-----
+WB opcode: 54WB PC 400028
+MEM PC 400028
+EX opcode: 0
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 184-----
+WB opcode: 54WB PC 400028
+MEM PC 40002c
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 185-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 186-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 187-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 188-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 40002c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 189-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400014
+-----Cycle: 190-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 0
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 191-----
+WB opcode: 54WB PC 400028
+MEM PC 400028
+EX opcode: 0
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 192-----
+WB opcode: 54WB PC 400028
+MEM PC 40002c
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 193-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 194-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 195-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 196-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 40002c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 197-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400014
+-----Cycle: 198-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 0
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 199-----
+WB opcode: 54WB PC 400028
+MEM PC 400028
+EX opcode: 0
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 200-----
+WB opcode: 54WB PC 400028
+MEM PC 40002c
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 201-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 202-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 203-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 204-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache miss
+FETCH PC: 40002c
+icache hit
+yess
+-----Cycle: 205-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 206-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 207-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 208-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 209-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 210-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 211-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 212-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 213-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 214-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 215-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 216-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 217-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 218-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 219-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 220-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 221-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 222-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 223-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 224-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 225-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 226-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 227-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 228-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 229-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 230-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 231-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 232-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 233-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 234-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 235-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 236-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 237-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 238-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 239-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 240-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 241-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 242-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 243-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 244-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 245-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 246-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 247-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 248-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 249-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 250-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 251-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 252-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 253-----
+WB PC 0
+MEM PC 400020
+dcache stall completed
+FETCH PC: 400030
+-----Cycle: 254-----
+WB PC 0
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400030
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 255-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400014
+-----Cycle: 256-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 0
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 257-----
+WB opcode: 54WB PC 400028
+MEM PC 400028
+EX opcode: 0
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 258-----
+WB opcode: 54WB PC 400028
+MEM PC 400030
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 259-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 260-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 261-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 262-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 40002c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 263-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400014
+-----Cycle: 264-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 0
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 265-----
+WB opcode: 54WB PC 400028
+MEM PC 400028
+EX opcode: 0
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 266-----
+WB opcode: 54WB PC 400028
+MEM PC 40002c
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 267-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 268-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 269-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 270-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 40002c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 271-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400014
+-----Cycle: 272-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 0
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 273-----
+WB opcode: 54WB PC 400028
+MEM PC 400028
+EX opcode: 0
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 274-----
+WB opcode: 54WB PC 400028
+MEM PC 40002c
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 275-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 276-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 277-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 278-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 40002c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 279-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400014
+-----Cycle: 280-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 0
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 281-----
+WB opcode: 54WB PC 400028
+MEM PC 400028
+EX opcode: 0
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 282-----
+WB opcode: 54WB PC 400028
+MEM PC 40002c
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 283-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 284-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 285-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 286-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache miss
+FETCH PC: 40002c
+icache hit
+yess
+-----Cycle: 287-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 288-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 289-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 290-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 291-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 292-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 293-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 294-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 295-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 296-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 297-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 298-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 299-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 300-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 301-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 302-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 303-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 304-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 305-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 306-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 307-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 308-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 309-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 310-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 311-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 312-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 313-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 314-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 315-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 316-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 317-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 318-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 319-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 320-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 321-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 322-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 323-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 324-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 325-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 326-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 327-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 328-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 329-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 330-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 331-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 332-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 333-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 334-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400030
+-----Cycle: 335-----
+WB PC 0
+MEM PC 400020
+dcache stall completed
+FETCH PC: 400030
+-----Cycle: 336-----
+WB PC 0
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400030
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 337-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400014
+-----Cycle: 338-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 0
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 339-----
+WB opcode: 54WB PC 400028
+MEM PC 400028
+EX opcode: 0
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 340-----
+WB opcode: 54WB PC 400028
+MEM PC 400030
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 341-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 342-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 343-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 344-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 345-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 346-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 347-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 348-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 349-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 350-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 351-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 352-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 353-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 354-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 355-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 356-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 357-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 358-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 359-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 360-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 361-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 362-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache miss
+FETCH PC: 400014
+icache hit
+yess
+-----Cycle: 363-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 364-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 365-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 366-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 367-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 368-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 369-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 370-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 371-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 372-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 373-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 374-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 375-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 376-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 377-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 378-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 379-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 380-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 381-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 382-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 383-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 384-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 385-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 386-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 387-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 388-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 389-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 390-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 391-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 392-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 393-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 394-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 395-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 396-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 397-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 398-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 399-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 400-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 401-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 402-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 403-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 404-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 405-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 406-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 407-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 408-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 409-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 410-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 411-----
+WB PC 0
+MEM PC 400020
+dcache stall completed
+FETCH PC: 400018
+-----Cycle: 412-----
+WB PC 0
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 413-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 414-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 415-----
+WB opcode: 54WB PC 400028
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 416-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 417-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 418-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 419-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 420-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 421-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 422-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 423-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 424-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 425-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 426-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 427-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 428-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 429-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 430-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 431-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 432-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 433-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 434-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 435-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache miss
+FETCH PC: 400014
+icache hit
+yess
+-----Cycle: 436-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 437-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 438-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 439-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 440-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 441-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 442-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 443-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 444-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 445-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 446-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 447-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 448-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 449-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 450-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 451-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 452-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 453-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 454-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 455-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 456-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 457-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 458-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 459-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 460-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 461-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 462-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 463-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 464-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 465-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 466-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 467-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 468-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 469-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 470-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 471-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 472-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 473-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 474-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 475-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 476-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 477-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 478-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 479-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 480-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 481-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 482-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 483-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 484-----
+WB PC 0
+MEM PC 400020
+dcache stall completed
+FETCH PC: 400018
+-----Cycle: 485-----
+WB PC 0
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 486-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 487-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 488-----
+WB opcode: 54WB PC 400028
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 489-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 490-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 491-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 492-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 493-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 494-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 495-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 496-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 497-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 498-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 499-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 500-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 501-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 502-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 503-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 504-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 505-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 506-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 507-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 508-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache miss
+FETCH PC: 400014
+icache hit
+yess
+-----Cycle: 509-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 510-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 511-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 512-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 513-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 514-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 515-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 516-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 517-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 518-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 519-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 520-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 521-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 522-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 523-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 524-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 525-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 526-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 527-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 528-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 529-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 530-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 531-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 532-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 533-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 534-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 535-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 536-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 537-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 538-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 539-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 540-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 541-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 542-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 543-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 544-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 545-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 546-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 547-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 548-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 549-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 550-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 551-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 552-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 553-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 554-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 555-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 556-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 557-----
+WB PC 0
+MEM PC 400020
+dcache stall completed
+FETCH PC: 400018
+-----Cycle: 558-----
+WB PC 0
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 559-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 560-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 561-----
+WB opcode: 54WB PC 400028
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 562-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 563-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 564-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 565-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 566-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 567-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 568-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 569-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 570-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 571-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 572-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 573-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 574-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 575-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 576-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 577-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 578-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 579-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 580-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 581-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache miss
+FETCH PC: 400014
+icache hit
+yess
+-----Cycle: 582-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 583-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 584-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 585-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 586-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 587-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 588-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 589-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 590-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 591-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 592-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 593-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 594-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 595-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 596-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 597-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 598-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 599-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 600-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 601-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 602-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 603-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 604-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 605-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 606-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 607-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 608-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 609-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 610-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 611-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 612-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 613-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 614-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 615-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 616-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 617-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 618-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 619-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 620-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 621-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 622-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 623-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 624-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 625-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 626-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 627-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 628-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 629-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 630-----
+WB PC 0
+MEM PC 400020
+dcache stall completed
+FETCH PC: 400018
+-----Cycle: 631-----
+WB PC 0
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 632-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 633-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 634-----
+WB opcode: 54WB PC 400028
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 635-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 636-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 637-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 638-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 639-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 640-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 641-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 642-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 643-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 644-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 645-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 646-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 647-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 648-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 649-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 650-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 651-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 652-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 653-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 654-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache miss
+FETCH PC: 400014
+icache hit
+yess
+-----Cycle: 655-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 656-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 657-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 658-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 659-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 660-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 661-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 662-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 663-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 664-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 665-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 666-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 667-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 668-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 669-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 670-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 671-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 672-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 673-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 674-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 675-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 676-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 677-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 678-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 679-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 680-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 681-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 682-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 683-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 684-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 685-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 686-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 687-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 688-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 689-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 690-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 691-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 692-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 693-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 694-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 695-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 696-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 697-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 698-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 699-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 700-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 701-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 702-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 703-----
+WB PC 0
+MEM PC 400020
+dcache stall completed
+FETCH PC: 400018
+-----Cycle: 704-----
+WB PC 0
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 705-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 706-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 707-----
+WB opcode: 54WB PC 400028
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 708-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 709-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 710-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 711-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 712-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 713-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 714-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 715-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 716-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 717-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 718-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 719-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 720-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 721-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 722-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 723-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 724-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 725-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 726-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 727-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache miss
+FETCH PC: 400014
+icache hit
+yess
+-----Cycle: 728-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 729-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 730-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 731-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 732-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 733-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 734-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 735-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 736-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 737-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 738-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 739-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 740-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 741-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 742-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 743-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 744-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 745-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 746-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 747-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 748-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 749-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 750-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 751-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 752-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 753-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 754-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 755-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 756-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 757-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 758-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 759-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 760-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 761-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 762-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 763-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 764-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 765-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 766-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 767-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 768-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 769-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 770-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 771-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 772-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 773-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 774-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 775-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 776-----
+WB PC 0
+MEM PC 400020
+dcache stall completed
+FETCH PC: 400018
+-----Cycle: 777-----
+WB PC 0
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 778-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 779-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 780-----
+WB opcode: 54WB PC 400028
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 781-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 782-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 783-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 784-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 785-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 786-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 787-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 788-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 789-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 790-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 791-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 792-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 793-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 794-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 795-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 796-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 797-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 798-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 799-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 800-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache miss
+FETCH PC: 400014
+icache hit
+yess
+-----Cycle: 801-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 802-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 803-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 804-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 805-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 806-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 807-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 808-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 809-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 810-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 811-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 812-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 813-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 814-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 815-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 816-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 817-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 818-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 819-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 820-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 821-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 822-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 823-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 824-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 825-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 826-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 827-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 828-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 829-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 830-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 831-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 832-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 833-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 834-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 835-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 836-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 837-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 838-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 839-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 840-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 841-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 842-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 843-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 844-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 845-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 846-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 847-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 848-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 849-----
+WB PC 0
+MEM PC 400020
+dcache stall completed
+FETCH PC: 400018
+-----Cycle: 850-----
+WB PC 0
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 851-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 852-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 853-----
+WB opcode: 54WB PC 400028
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 854-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 855-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 856-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 857-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 858-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 859-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 860-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 861-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 862-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 863-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 864-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 865-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 866-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 867-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 868-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 869-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 870-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 871-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 872-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 873-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache miss
+FETCH PC: 400014
+icache hit
+yess
+-----Cycle: 874-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 875-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 876-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 877-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 878-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 879-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 880-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 881-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 882-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 883-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 884-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 885-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 886-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 887-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 888-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 889-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 890-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 891-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 892-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 893-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 894-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 895-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 896-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 897-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 898-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 899-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 900-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 901-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 902-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 903-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 904-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 905-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 906-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 907-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 908-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 909-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 910-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 911-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 912-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 913-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 914-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 915-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 916-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 917-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 918-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 919-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 920-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 921-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 922-----
+WB PC 0
+MEM PC 400020
+dcache stall completed
+FETCH PC: 400018
+-----Cycle: 923-----
+WB PC 0
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 924-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 925-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 926-----
+WB opcode: 54WB PC 400028
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 927-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 928-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 929-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 930-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 931-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 932-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 933-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 934-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 935-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 936-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 937-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 938-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 939-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 940-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 941-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 942-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 943-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 944-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 945-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 946-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache miss
+FETCH PC: 400014
+icache hit
+yess
+-----Cycle: 947-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 948-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 949-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 950-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 951-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 952-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 953-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 954-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 955-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 956-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 957-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 958-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 959-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 960-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 961-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 962-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 963-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 964-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 965-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 966-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 967-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 968-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 969-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 970-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 971-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 972-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 973-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 974-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 975-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 976-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 977-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 978-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 979-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 980-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 981-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 982-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 983-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 984-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 985-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 986-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 987-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 988-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 989-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 990-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 991-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 992-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 993-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 994-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 995-----
+WB PC 0
+MEM PC 400020
+dcache stall completed
+FETCH PC: 400018
+-----Cycle: 996-----
+WB PC 0
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 997-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 998-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 999-----
+WB opcode: 54WB PC 400028
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1000-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1001-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1002-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1003-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1004-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1005-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1006-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1007-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1008-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1009-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1010-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1011-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1012-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1013-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1014-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1015-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1016-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1017-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1018-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1019-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache miss
+FETCH PC: 400014
+icache hit
+yess
+-----Cycle: 1020-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1021-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1022-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1023-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1024-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1025-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1026-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1027-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1028-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1029-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1030-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1031-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1032-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1033-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1034-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1035-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1036-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1037-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1038-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1039-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1040-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1041-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1042-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1043-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1044-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1045-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1046-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1047-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1048-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1049-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1050-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1051-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1052-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1053-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1054-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1055-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1056-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1057-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1058-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1059-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1060-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1061-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1062-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1063-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1064-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1065-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1066-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1067-----
+WB PC 0
+MEM PC 400020
+FETCH PC: 400018
+-----Cycle: 1068-----
+WB PC 0
+MEM PC 400020
+dcache stall completed
+FETCH PC: 400018
+-----Cycle: 1069-----
+WB PC 0
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1070-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1071-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1072-----
+WB opcode: 54WB PC 400028
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1073-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1074-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1075-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1076-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1077-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1078-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1079-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1080-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1081-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1082-----
+WB opcode: 758WB PC 400024
+MEM PC 400028
+MEM Opcode: 54
+EX opcode: 488
+FETCH PC: 40001c
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1083-----
+WB opcode: 54WB PC 400028
+MEM PC 400014
+MEM Opcode: 488
+EX opcode: 488
+FETCH PC: 400020
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1084-----
+WB opcode: 488WB PC 400014
+MEM PC 400018
+MEM Opcode: 488
+EX opcode: 7c0
+FETCH PC: 400024
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1085-----
+WB opcode: 488WB PC 400018
+MEM PC 40001c
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 7c0
+FETCH PC: 400028
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1086-----
+WB opcode: 7c0WB PC 40001c
+MEM PC 400020
+MEM Opcode: 7c0
+dcache hit
+EX opcode: 758
+FETCH PC: 400014
+icache hit
+SEVENTEEN THIRTY-EIGHT
+-----Cycle: 1087-----
+WB opcode: 7c0WB PC 400020
+MEM PC 400024
+MEM Opcode: 758
+EX opcode: 54
+FETCH PC: 400018
+icache hit
+SEVENTEEN THIRTY-EIGHT
+ARM-SIM> 
+Invalid Command
+ARM-SIM> 
+
+Current register/bus values :
+-------------------------------------
+Instruction Retired : 311
+PC                : 0x40001c
+Registers:
+X0: 0x0
+X1: 0x64
+X2: 0x56
+X3: 0x45b
+X4: 0x0
+X5: 0x0
+X6: 0x0
+X7: 0x0
+X8: 0x0
+X9: 0x0
+X10: 0x100001a8
+X11: 0x0
+X12: 0x0
+X13: 0x0
+X14: 0x0
+X15: 0x0
+X16: 0x0
+X17: 0x0
+X18: 0x0
+X19: 0x0
+X20: 0x0
+X21: 0x0
+X22: 0x0
+X23: 0x0
+X24: 0x0
+X25: 0x0
+X26: 0x0
+X27: 0x0
+X28: 0x0
+X29: 0x0
+X30: 0x0
+X31: 0x0
+FLAG_N: 0
+FLAG_Z: 0
+No. of Cycles: 1087
+
+ARM-SIM> 
+
+Memory content [0x10000000..0x100000ff] :
+-------------------------------------
+  0x10000000 (268435456) : 0x0
+  0x10000004 (268435460) : 0x0
+  0x10000008 (268435464) : 0x45b
+  0x1000000c (268435468) : 0x0
+  0x10000010 (268435472) : 0x45b
+  0x10000014 (268435476) : 0x0
+  0x10000018 (268435480) : 0x45b
+  0x1000001c (268435484) : 0x0
+  0x10000020 (268435488) : 0x45b
+  0x10000024 (268435492) : 0x0
+  0x10000028 (268435496) : 0x45b
+  0x1000002c (268435500) : 0x0
+  0x10000030 (268435504) : 0x45b
+  0x10000034 (268435508) : 0x0
+  0x10000038 (268435512) : 0x45b
+  0x1000003c (268435516) : 0x0
+  0x10000040 (268435520) : 0x45b
+  0x10000044 (268435524) : 0x0
+  0x10000048 (268435528) : 0x45b
+  0x1000004c (268435532) : 0x0
+  0x10000050 (268435536) : 0x45b
+  0x10000054 (268435540) : 0x0
+  0x10000058 (268435544) : 0x45b
+  0x1000005c (268435548) : 0x0
+  0x10000060 (268435552) : 0x45b
+  0x10000064 (268435556) : 0x0
+  0x10000068 (268435560) : 0x45b
+  0x1000006c (268435564) : 0x0
+  0x10000070 (268435568) : 0x45b
+  0x10000074 (268435572) : 0x0
+  0x10000078 (268435576) : 0x45b
+  0x1000007c (268435580) : 0x0
+  0x10000080 (268435584) : 0x45b
+  0x10000084 (268435588) : 0x0
+  0x10000088 (268435592) : 0x45b
+  0x1000008c (268435596) : 0x0
+  0x10000090 (268435600) : 0x45b
+  0x10000094 (268435604) : 0x0
+  0x10000098 (268435608) : 0x45b
+  0x1000009c (268435612) : 0x0
+  0x100000a0 (268435616) : 0x45b
+  0x100000a4 (268435620) : 0x0
+  0x100000a8 (268435624) : 0x45b
+  0x100000ac (268435628) : 0x0
+  0x100000b0 (268435632) : 0x45b
+  0x100000b4 (268435636) : 0x0
+  0x100000b8 (268435640) : 0x45b
+  0x100000bc (268435644) : 0x0
+  0x100000c0 (268435648) : 0x45b
+  0x100000c4 (268435652) : 0x0
+  0x100000c8 (268435656) : 0x45b
+  0x100000cc (268435660) : 0x0
+  0x100000d0 (268435664) : 0x45b
+  0x100000d4 (268435668) : 0x0
+  0x100000d8 (268435672) : 0x45b
+  0x100000dc (268435676) : 0x0
+  0x100000e0 (268435680) : 0x45b
+  0x100000e4 (268435684) : 0x0
+  0x100000e8 (268435688) : 0x45b
+  0x100000ec (268435692) : 0x0
+  0x100000f0 (268435696) : 0x45b
+  0x100000f4 (268435700) : 0x0
+  0x100000f8 (268435704) : 0x45b
+  0x100000fc (268435708) : 0x0
+
+ARM-SIM> 
